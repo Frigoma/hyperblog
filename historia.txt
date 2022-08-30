@@ -5,3 +5,5 @@ Ahora estoy agregando nuevas palabrar probablemente para hacer un segundo commit
 Agrego cambios en estos parrafos como ejemplo de modificacion de archivo.
 
 Incluyo un nuevo cambio, el ultimo
+
+Manana nos enfocaremos en su vida laboral
